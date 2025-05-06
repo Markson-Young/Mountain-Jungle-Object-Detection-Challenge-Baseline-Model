@@ -2,7 +2,7 @@
 
 ![license](https://img.shields.io/badge/license-MIT-green) ![PyTorch-1.10.0](https://img.shields.io/badge/PyTorch-1.10.0-blue)
 
-
+[**EAEFNet原始项目网页**](https://github.com/FreeformRobotics/EAEFNet)
 
 ## 环境安装
 
